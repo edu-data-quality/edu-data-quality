@@ -49,8 +49,8 @@
 <br>
 Profissional com sólida experiência em Garantia da Qualidade de Dados e Aplicações, aliado a uma crescente especialização em Engenharia e Análise de Dados. Atuo com foco em automação, otimização de processos e soluções em nuvem, sempre orientado à escalabilidade e inovação.
 
-> **Certificação:** Microsoft **Azure Fundamentals (AZ-900)** – fundamentos de nuvem e serviços Azure aplicados à construção e sustentação de **pipelines de dados robustos**.
-> **Certificação:** Microsoft **Azure Data fundamentas (AZ-900)** – fundamentos de dados no Azure aplicadas a construção de bancos realacionais não relacionais, carga de trabalho e analise no Azure
+> **Certificação:** Microsoft **Azure Fundamentals (AZ-900)** – fundamentos de nuvem e serviços Azure aplicados à construção e sustentação de **pipelines de dados robustos**.<br>
+> **Certificação:** Microsoft **Azure Data fundamentas (DP-900)** – fundamentos de dados no Azure aplicadas a construção de bancos realacionais não relacionais, carga de trabalho e analise no Azure
 
 ---
 ## 🔧 Stack e Competências
