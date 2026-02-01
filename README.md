@@ -1,7 +1,7 @@
 
 
 # Olá! Sou o Eduardo Alves <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
-**Egenheiro de Dados | Azure | Engenharia & Análise de Dados | Automação & IA**
+**Data Quality Engineer | Automation & IA | Engenharia de Dados aplicada à Qualidade**
 <br>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/eduardo-alves95/)
